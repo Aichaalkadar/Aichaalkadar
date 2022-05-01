@@ -3,8 +3,8 @@
         {
             "app_launch_ordinal": "n",
             "extension": {
-                        "incognito_enabled": true,
-                        "remote_install": false,
+                        "incognito_enabled": false,
+                        "remote_install": true,
                         "disable_reasons": 0,
                         "installed_by_custodian": false,
                         "update_url": "",
@@ -18,7 +18,7 @@
         {
             "app_launch_ordinal": "zzm",
             "extension": {
-                        "incognito_enabled": false,
+                        "incognito_enabled": true,
                         "remote_install": false,
                         "disable_reasons": 0,
                         "update_url": "",
@@ -90,10 +90,10 @@
         {
             "app_launch_ordinal": "zm",
             "extension": {
-                        "incognito_enabled": false,
-                        "remote_install": false,
+                        "incognito_enabled": true,
+                        "remote_install": true,
                         "disable_reasons": 0,
-                        "installed_by_custodian": false,
+                        "installed_by_custodian": true,
                         "update_url": "https://clients2.google.com/service/update2/crx",
                         "name": "Fast Proxy",
                         "id": "bkjcdfmmpdfjohenejbkaaafkoeknjnh",
@@ -367,7 +367,7 @@
 },
         {
             "name": "browser.enable_spellchecking",
-            "value": "false"
+            "value": "true"
 },
         {
             "name": "translate_ignored_count_for_language",
@@ -435,7 +435,7 @@
 },
         {
             "name": "default_search_provider.synced_guid",
-            "value": "\"A847BDF7-D10C-4C73-AF75-3ACF901A5F78\""
+            "value": "true"
 },
         {
             "name": "browser.clear_data.form_data",
@@ -443,7 +443,7 @@
 },
         {
             "name": "profile.content_settings.exceptions.protocol_handlers",
-            "value": "{}"
+            "value": "true"
 },
         {
             "name": "sharing.vapid_key",
@@ -455,7 +455,7 @@
 },
         {
             "name": "extensions.commands",
-            "value": "{\"windows:Ctrl+D\":{\"command_name\":\"_execute_page_action\",\"extension\":\"gmlllbghnfkpflemihljekbapjopfjik\",\"global\":false}}"
+            "value": "{\"windows:Ctrl+D\":{\"command_name\":\"_execute_page_action\",\"extension\":\"gmlllbghnfkpflemihljekbapjopfjik\",\"global\": true}}"
 },
         {
             "name": "profile.content_settings.exceptions.mouselock",
@@ -467,7 +467,7 @@
 },
         {
             "name": "profile.content_settings.exceptions.storage_access",
-            "value": "{}"
+            "value": "true"
 },
         {
             "name": "translate_denied_count_for_language",
@@ -503,7 +503,7 @@
 },
         {
             "name": "translate_too_often_denied",
-            "value": "true"
+            "value": "false"
 },
         {
             "name": "profile.content_settings.exceptions.popups",
@@ -511,11 +511,11 @@
 },
         {
             "name": "translate_site_blacklist",
-            "value": "[]"
+            "value": "true"
 },
         {
             "name": "profile.content_settings.exceptions.font_access",
-            "value": "{}"
+            "value": "true"
 },
         {
             "name": "profile.content_settings.pattern_pairs",
@@ -603,7 +603,7 @@
 },
         {
             "name": "profile.content_settings.exceptions.window_placement",
-            "value": "{}"
+            "value": "true"
 },
         {
             "name": "sharing.synced_devices",
@@ -615,21 +615,21 @@
 },
         {
             "name": "browser.clear_data.browsing_history_basic",
-            "value": "true"
+            "value": "false"
 },
         {
             "name": "profile.content_settings.exceptions.push_messaging",
-            "value": "{}"
+            "value": "false"
 },
         {
             "name": "browser.clear_data.site_settings",
-            "value": "true"
+            "value": "false"
 }
     ],
     "Themes": [
         {
-            "use_system_theme_by_default": false,
-            "use_custom_theme": false
+            "use_system_theme_by_default": true,
+            "use_custom_theme": true
 }
     ]
 }
