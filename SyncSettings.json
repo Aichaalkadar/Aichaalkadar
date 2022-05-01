@@ -1,0 +1,635 @@
+{
+    "Apps": [
+        {
+            "app_launch_ordinal": "n",
+            "extension": {
+                        "incognito_enabled": true,
+                        "remote_install": false,
+                        "disable_reasons": 0,
+                        "installed_by_custodian": false,
+                        "update_url": "",
+                        "name": "Chrome",
+                        "id": "mgndgikekgjfcpckkfioiadnlibdjbkf",
+                        "version": "0.1",
+                        "enabled": true
+            },
+            "page_ordinal": "n"
+},
+        {
+            "app_launch_ordinal": "zzm",
+            "extension": {
+                        "incognito_enabled": false,
+                        "remote_install": false,
+                        "disable_reasons": 0,
+                        "update_url": "",
+                        "name": "Solitaire VAWLT",
+                        "id": "gmknfhongidpgjkcagjfflnleipapefo",
+                        "version": "0",
+                        "enabled": true
+            },
+            "bookmark_app_icon_color": "#F8E08E",
+            "linked_app_icons": [
+                        {
+                                    "size": 512,
+                                    "url": "https://vawlt.com/solitaire/assets/icons/android-chrome-512x512.png"
+                        },
+                        {
+                                    "size": 192,
+                                    "url": "https://vawlt.com/solitaire/assets/icons/android-chrome-192x192.png"
+                        }
+            ],
+            "bookmark_app_theme_color": -16415981,
+            "bookmark_app_scope": "https://vawlt.com/solitaire/",
+            "page_ordinal": "n",
+            "bookmark_app_url": "https://vawlt.com/solitaire/index.html?utm_source=homescreen&utm_medium=pwa",
+            "launch_type": "WINDOW"
+},
+        {
+            "app_launch_ordinal": "zy",
+            "extension": {
+                        "incognito_enabled": false,
+                        "remote_install": false,
+                        "disable_reasons": 0,
+                        "update_url": "",
+                        "name": "Microcare",
+                        "id": "danllanchmkblioambdoeihcfjlpiipa",
+                        "version": "0",
+                        "enabled": true
+            },
+            "bookmark_app_icon_color": "#31A5C1",
+            "linked_app_icons": [
+                        {
+                                    "size": 32,
+                                    "url": "http://192.168.1.170:8080/favicon.png"
+                        },
+                        {
+                                    "size": 48,
+                                    "url": "http://192.168.1.170:8080/favicon.png"
+                        },
+                        {
+                                    "size": 64,
+                                    "url": "http://192.168.1.170:8080/favicon.png"
+                        },
+                        {
+                                    "size": 96,
+                                    "url": "http://192.168.1.170:8080/favicon.png"
+                        },
+                        {
+                                    "size": 128,
+                                    "url": "http://192.168.1.170:8080/favicon.png"
+                        },
+                        {
+                                    "size": 256,
+                                    "url": "http://192.168.1.170:8080/favicon.png"
+                        }
+            ],
+            "page_ordinal": "n",
+            "bookmark_app_url": "http://192.168.1.170:8080/Account/LogOn",
+            "launch_type": "WINDOW"
+},
+        {
+            "app_launch_ordinal": "zm",
+            "extension": {
+                        "incognito_enabled": false,
+                        "remote_install": false,
+                        "disable_reasons": 0,
+                        "installed_by_custodian": false,
+                        "update_url": "https://clients2.google.com/service/update2/crx",
+                        "name": "Fast Proxy",
+                        "id": "bkjcdfmmpdfjohenejbkaaafkoeknjnh",
+                        "version": "1.4",
+                        "enabled": true
+            },
+            "page_ordinal": "n"
+},
+        {
+            "app_launch_ordinal": "zyn",
+            "extension": {
+                        "incognito_enabled": false,
+                        "remote_install": false,
+                        "disable_reasons": 0,
+                        "update_url": "",
+                        "name": "Microcare - Hospital Information System",
+                        "id": "nehkokmdabjiibmfceifkhjpojkcaoge",
+                        "version": "0",
+                        "enabled": true
+            },
+            "bookmark_app_icon_color": "#31A5C1",
+            "linked_app_icons": [
+                        {
+                                    "size": 32,
+                                    "url": "http://192.168.1.170:8080/favicon.png"
+                        },
+                        {
+                                    "size": 48,
+                                    "url": "http://192.168.1.170:8080/favicon.png"
+                        },
+                        {
+                                    "size": 64,
+                                    "url": "http://192.168.1.170:8080/favicon.png"
+                        },
+                        {
+                                    "size": 96,
+                                    "url": "http://192.168.1.170:8080/favicon.png"
+                        },
+                        {
+                                    "size": 128,
+                                    "url": "http://192.168.1.170:8080/favicon.png"
+                        },
+                        {
+                                    "size": 256,
+                                    "url": "http://192.168.1.170:8080/favicon.png"
+                        }
+            ],
+            "page_ordinal": "n",
+            "bookmark_app_url": "http://192.168.1.170:8080/Account/LogOn?ReturnUrl=%2f",
+            "launch_type": "WINDOW"
+},
+        {
+            "app_launch_ordinal": "zx",
+            "extension": {
+                        "incognito_enabled": false,
+                        "remote_install": false,
+                        "disable_reasons": 0,
+                        "update_url": "",
+                        "name": "Microcare - Hospital Information System",
+                        "id": "ndlcekkjjmgcbhohobihcgfjeoipbmef",
+                        "version": "0",
+                        "enabled": true
+            },
+            "bookmark_app_icon_color": "#31A5C1",
+            "linked_app_icons": [
+                        {
+                                    "size": 32,
+                                    "url": "http://192.168.1.170/app/favicon.png"
+                        },
+                        {
+                                    "size": 48,
+                                    "url": "http://192.168.1.170/app/favicon.png"
+                        },
+                        {
+                                    "size": 64,
+                                    "url": "http://192.168.1.170/app/favicon.png"
+                        },
+                        {
+                                    "size": 96,
+                                    "url": "http://192.168.1.170/app/favicon.png"
+                        },
+                        {
+                                    "size": 128,
+                                    "url": "http://192.168.1.170/app/favicon.png"
+                        },
+                        {
+                                    "size": 256,
+                                    "url": "http://192.168.1.170/app/favicon.png"
+                        }
+            ],
+            "page_ordinal": "n",
+            "bookmark_app_url": "http://192.168.1.170/app/Account/LogOn?ReturnUrl=%2fapp",
+            "launch_type": "WINDOW"
+},
+        {
+            "app_launch_ordinal": "t",
+            "extension": {
+                        "incognito_enabled": true,
+                        "remote_install": false,
+                        "disable_reasons": 0,
+                        "update_url": "",
+                        "id": "ahfgeienlihckogmohjhadlkjgocpleb",
+                        "version": "0.2",
+                        "enabled": true
+            },
+            "page_ordinal": "n"
+},
+        {
+            "app_launch_ordinal": "zv",
+            "extension": {
+                        "incognito_enabled": false,
+                        "remote_install": false,
+                        "disable_reasons": 0,
+                        "update_url": "",
+                        "name": "Microcare - Hospital Information System",
+                        "id": "dphoafkgpdckfahmlidhefkkankmojpo",
+                        "version": "0",
+                        "enabled": true
+            },
+            "bookmark_app_icon_color": "#31A5C1",
+            "linked_app_icons": [
+                        {
+                                    "size": 32,
+                                    "url": "http://192.168.1.13/app/favicon.png"
+                        },
+                        {
+                                    "size": 48,
+                                    "url": "http://192.168.1.13/app/favicon.png"
+                        },
+                        {
+                                    "size": 64,
+                                    "url": "http://192.168.1.13/app/favicon.png"
+                        },
+                        {
+                                    "size": 96,
+                                    "url": "http://192.168.1.13/app/favicon.png"
+                        },
+                        {
+                                    "size": 128,
+                                    "url": "http://192.168.1.13/app/favicon.png"
+                        },
+                        {
+                                    "size": 256,
+                                    "url": "http://192.168.1.13/app/favicon.png"
+                        }
+            ],
+            "page_ordinal": "n",
+            "bookmark_app_url": "http://192.168.1.13/app/Account/LogOn?ReturnUrl=%2fapp",
+            "launch_type": "WINDOW"
+},
+        {
+            "app_launch_ordinal": "zz",
+            "extension": {
+                        "incognito_enabled": false,
+                        "remote_install": false,
+                        "disable_reasons": 0,
+                        "update_url": "",
+                        "name": "Microcare - Hospital Information System",
+                        "id": "nkbgnklhpmcfdiepoffenoocoaiopdlm",
+                        "version": "0",
+                        "enabled": true
+            },
+            "bookmark_app_icon_color": "#31A5C1",
+            "linked_app_icons": [
+                        {
+                                    "size": 32,
+                                    "url": "http://192.168.1.170/Microcare/favicon.png"
+                        },
+                        {
+                                    "size": 48,
+                                    "url": "http://192.168.1.170/Microcare/favicon.png"
+                        },
+                        {
+                                    "size": 64,
+                                    "url": "http://192.168.1.170/Microcare/favicon.png"
+                        },
+                        {
+                                    "size": 96,
+                                    "url": "http://192.168.1.170/Microcare/favicon.png"
+                        },
+                        {
+                                    "size": 128,
+                                    "url": "http://192.168.1.170/Microcare/favicon.png"
+                        },
+                        {
+                                    "size": 256,
+                                    "url": "http://192.168.1.170/Microcare/favicon.png"
+                        }
+            ],
+            "page_ordinal": "n",
+            "bookmark_app_url": "http://192.168.1.170/Microcare/Account/LogOn?ReturnUrl=%2fmicrocare",
+            "launch_type": "WINDOW"
+},
+        {
+            "app_launch_ordinal": "zs",
+            "extension": {
+                        "incognito_enabled": false,
+                        "remote_install": false,
+                        "disable_reasons": 0,
+                        "update_url": "",
+                        "name": "Microcare - Hospital Information System",
+                        "id": "fffbamnclncfmeaoeegdlbdpaeekpknk",
+                        "version": "0",
+                        "enabled": true
+            },
+            "bookmark_app_icon_color": "#31A5C1",
+            "linked_app_icons": [
+                        {
+                                    "size": 32,
+                                    "url": "http://192.168.1.13/favicon.png"
+                        },
+                        {
+                                    "size": 48,
+                                    "url": "http://192.168.1.13/favicon.png"
+                        },
+                        {
+                                    "size": 64,
+                                    "url": "http://192.168.1.13/favicon.png"
+                        },
+                        {
+                                    "size": 96,
+                                    "url": "http://192.168.1.13/favicon.png"
+                        },
+                        {
+                                    "size": 128,
+                                    "url": "http://192.168.1.13/favicon.png"
+                        },
+                        {
+                                    "size": 256,
+                                    "url": "http://192.168.1.13/favicon.png"
+                        }
+            ],
+            "page_ordinal": "n",
+            "bookmark_app_url": "http://192.168.1.13/Account/LogOn?ReturnUrl=%2f",
+            "launch_type": "WINDOW"
+}
+    ],
+    "App Settings": [],
+    "Preferences": [
+        {
+            "name": "session.startup_urls",
+            "value": "[\"http://www.key-find.com/?type=hp&ts=1423672153&from=cor&uid=ST500LT012-9WS142_W0V77M24XXXXW0V77M24\"]"
+},
+        {
+            "name": "profile.content_settings.exceptions.images",
+            "value": "{}"
+},
+        {
+            "name": "custom_links.initialized",
+            "value": "false"
+},
+        {
+            "name": "translate_too_often_denied_for_language",
+            "value": "{\"ar\":true,\"fr\":true}"
+},
+        {
+            "name": "translate_force_trigger_on_english_count_for_backoff_1",
+            "value": "-1"
+},
+        {
+            "name": "browser.clear_data.time_period",
+            "value": "4"
+},
+        {
+            "name": "session.restore_on_startup",
+            "value": "5"
+},
+        {
+            "name": "profile.content_settings.exceptions.metro_switch_to_desktop",
+            "value": "{}"
+},
+        {
+            "name": "browser.enable_spellchecking",
+            "value": "false"
+},
+        {
+            "name": "translate_ignored_count_for_language",
+            "value": "{\"ar\":46,\"de\":2,\"en\":20,\"es\":8,\"fr\":12,\"nl\":1,\"pt\":2,\"ru\":1,\"sv\":1}"
+},
+        {
+            "name": "profile.name",
+            "value": "\"First user\""
+},
+        {
+            "name": "custom_links.list",
+            "value": "[{\"isMostVisited\":false,\"title\":\"مايكروكير\",\"url\":\"https://mymicrocare-alzaher.azurewebsites.net/Account/LogOn?ReturnUrl=%2fReceptionists%2fReceptionist%2fAppointmentDashboard\"}]"
+},
+        {
+            "name": "browser.clear_data.cookies_basic",
+            "value": "true"
+},
+        {
+            "name": "browser.show_home_button",
+            "value": "true"
+},
+        {
+            "name": "profile.content_settings.exceptions.cookies",
+            "value": "{}"
+},
+        {
+            "name": "browser.clear_data.preferences_migrated_to_basic",
+            "value": "true"
+},
+        {
+            "name": "profile.content_settings.exceptions.fullscreen",
+            "value": "{\"[*.]add-anime.net,*\":{\"setting\":1},\"[*.]www.4helal.co,*\":{\"setting\":1},\"[*.]www.youtube.com,*\":{\"setting\":1},\"https://[*.]www.youtube.com:443,*\":{\"setting\":1},\"https://youtube.googleapis.com:443,http://anime-show.com:80\":{\"setting\":1},\"https://youtube.googleapis.com:443,http://toofy.tv:80\":{\"setting\":1},\"https://youtube.googleapis.com:443,https://docs.google.com:443\":{\"setting\":1}}"
+},
+        {
+            "name": "profile.content_settings.exceptions.mixed_script",
+            "value": "{}"
+},
+        {
+            "name": "translate_recent_target",
+            "value": "\"en\""
+},
+        {
+            "name": "translate_blocked_languages",
+            "value": "[\"en\"]"
+},
+        {
+            "name": "autofill.profile_use_dates_fixed",
+            "value": "true"
+},
+        {
+            "name": "browser.clear_data.cache_basic",
+            "value": "true"
+},
+        {
+            "name": "profile.content_settings.exceptions.plugins",
+            "value": "{}"
+},
+        {
+            "name": "browser.clear_data.passwords",
+            "value": "true"
+},
+        {
+            "name": "sync.demographics_birth_year_offset",
+            "value": "0"
+},
+        {
+            "name": "default_search_provider.synced_guid",
+            "value": "\"A847BDF7-D10C-4C73-AF75-3ACF901A5F78\""
+},
+        {
+            "name": "browser.clear_data.form_data",
+            "value": "true"
+},
+        {
+            "name": "profile.content_settings.exceptions.protocol_handlers",
+            "value": "{}"
+},
+        {
+            "name": "sharing.vapid_key",
+            "value": "{\"vapid_creation_timestamp\":\"13219648877486402\",\"vapid_private_key\":\"MIGHAgEAMBMGByqGSM49AgEGCCqGSM49AwEHBG0wawIBAQQgKGGkVeAfnMksbyKS0SMoayHezxmTuIJjrOPEj1DYVNShRANCAATEoCv6ozpd6paR1XN/oCJEdaxU7gAmv9CwE2Xj0PnOviwBDQmV5nkyUafngjPlDf24GM1bh5eK2ojt2MHuSwQc\"}"
+},
+        {
+            "name": "profile.default_content_setting_values.popups",
+            "value": "1"
+},
+        {
+            "name": "extensions.commands",
+            "value": "{\"windows:Ctrl+D\":{\"command_name\":\"_execute_page_action\",\"extension\":\"gmlllbghnfkpflemihljekbapjopfjik\",\"global\":false}}"
+},
+        {
+            "name": "profile.content_settings.exceptions.mouselock",
+            "value": "{}"
+},
+        {
+            "name": "homepage",
+            "value": "\"http://www.key-find.com/?type=hp&ts=1423672153&from=cor&uid=ST500LT012-9WS142_W0V77M24XXXXW0V77M24\""
+},
+        {
+            "name": "profile.content_settings.exceptions.storage_access",
+            "value": "{}"
+},
+        {
+            "name": "translate_denied_count_for_language",
+            "value": "{\"ar\":9,\"es\":1,\"fr\":2,\"pt\":0,\"ru\":1}"
+},
+        {
+            "name": "bookmark_bar.show_apps_shortcut",
+            "value": "false"
+},
+        {
+            "name": "search.contextual_search_enabled",
+            "value": "\"true\""
+},
+        {
+            "name": "profile.content_settings.exceptions.automatic_downloads",
+            "value": "{\"http://www.khalijisports.com:80,*\":{\"last_modified\":\"13195687384653030\",\"setting\":2}}"
+},
+        {
+            "name": "intl.accept_languages",
+            "value": "\"en-GB,en-US,en\""
+},
+        {
+            "name": "profile.content_settings.exceptions.flash_data",
+            "value": "{}"
+},
+        {
+            "name": "translate_allowlists",
+            "value": "{}"
+},
+        {
+            "name": "translate_whitelists",
+            "value": "{}"
+},
+        {
+            "name": "translate_too_often_denied",
+            "value": "true"
+},
+        {
+            "name": "profile.content_settings.exceptions.popups",
+            "value": "{}"
+},
+        {
+            "name": "translate_site_blacklist",
+            "value": "[]"
+},
+        {
+            "name": "profile.content_settings.exceptions.font_access",
+            "value": "{}"
+},
+        {
+            "name": "profile.content_settings.pattern_pairs",
+            "value": "{\"[*.]add-anime.net,*\":{\"fullscreen\":1},\"[*.]www.4helal.co,*\":{\"fullscreen\":1},\"[*.]www.youtube.com,*\":{\"fullscreen\":1},\"https://[*.]www.youtube.com:443,*\":{\"fullscreen\":1},\"https://youtube.googleapis.com:443,http://anime-show.com:80\":{\"fullscreen\":1},\"https://youtube.googleapis.com:443,http://toofy.tv:80\":{\"fullscreen\":1},\"https://youtube.googleapis.com:443,https://docs.google.com:443\":{\"fullscreen\":1}}"
+},
+        {
+            "name": "profile.migrated_default_content_settings",
+            "value": "true"
+},
+        {
+            "name": "ntp.app_page_names",
+            "value": "[\"Apps\"]"
+},
+        {
+            "name": "profile.avatar_index",
+            "value": "0"
+},
+        {
+            "name": "browser.clear_data.time_period_basic",
+            "value": "4"
+},
+        {
+            "name": "translate_site_blacklist_with_time",
+            "value": "{\"haraj.com.sa\":\"13279708016253160\",\"www.xnxx.com\":\"13233332927052798\"}"
+},
+        {
+            "name": "browser.clear_data.hosted_apps_data",
+            "value": "true"
+},
+        {
+            "name": "extensions.pinned_extensions",
+            "value": "[\"epeihaofmimamjmejjmagknlboibcnle\",\"fgljidimohbcmjdabiecfeikkmpbjegm\",\"ahmpjcflkgiildlgicmcieglgoilbfdp\"]"
+},
+        {
+            "name": "translate_accepted_count",
+            "value": "{\"ar\":0,\"es\":0,\"fr\":0,\"pt\":1,\"ru\":0}"
+},
+        {
+            "name": "profile.content_settings.clear_on_exit_migrated",
+            "value": "true"
+},
+        {
+            "name": "translate_denied_count",
+            "value": "{\"ar\":17}"
+},
+        {
+            "name": "intl.selected_languages",
+            "value": "\"en-GB,en-US,en\""
+},
+        {
+            "name": "profile.content_settings.exceptions.javascript",
+            "value": "{}"
+},
+        {
+            "name": "hotword.previous_language",
+            "value": "\"en-US\""
+},
+        {
+            "name": "bookmark_bar.show_on_all_tabs",
+            "value": "true"
+},
+        {
+            "name": "extensions.toolbar",
+            "value": "[\"epeihaofmimamjmejjmagknlboibcnle\",\"fgljidimohbcmjdabiecfeikkmpbjegm\",\"ahmpjcflkgiildlgicmcieglgoilbfdp\",\"ngpampappnmepgilojfohadhhmbhlaek\",\"cmllgdnjnkbapbchnebiedipojhmnjej\",\"gbpaokikbjeiikcfemfedifmkhieifdg\",\"bihmplhobchoageeokmgbdihknkjbknd\"]"
+},
+        {
+            "name": "profile.content_settings.exceptions.midi_sysex",
+            "value": "{}"
+},
+        {
+            "name": "homepage_is_newtabpage",
+            "value": "false"
+},
+        {
+            "name": "hotword.audio_logging_enabled",
+            "value": "false"
+},
+        {
+            "name": "translate_auto_never_count",
+            "value": "{\"ar\":2}"
+},
+        {
+            "name": "extensions.ui.developer_mode",
+            "value": "true"
+},
+        {
+            "name": "profile.content_settings.exceptions.window_placement",
+            "value": "{}"
+},
+        {
+            "name": "sharing.synced_devices",
+            "value": "{\"aQn1qEzmQw5d0sTFOXtnHQ==\":{\"device_auth_secret\":\"/SYDiuqLq1pi5J5LOPtzHA==\",\"device_capabilities\":2,\"device_fcm_token\":\"fQCNrB4dcJc:APA91bFdf6EQ8pH_J0EDhrxTEpwdbHeAjR_rWVl_yv2ye6S6DUNRkNBJYNHdr5FCBoVNtgdheWJwL0cpU-AJemP9kNKqfWQhhnJ7BbaCjkGd_EV4eC3aoB5A47BRJ5xE3nTVvCQvtX2I\",\"device_p256dh\":\"BKxdS7K+BJMgxmZhsArAJcaeuinJFaIUPlTuoFeDvdCZkkRXefKlt2HEVnsWKa5OYUAMv7froqLnOTh1sPr5GkA=\"},\"uA66Kniq4Yq53UafPIlJ+w==\":{\"device_auth_secret\":\"t1HaWo9vkd2LoWlUMfHiKQ==\",\"device_capabilities\":3,\"device_fcm_token\":\"dLt9Fzunta8:APA91bEcURpqucUAAcpdqfZORTtExb1QkmU4sJQfhycYmnOqH9pBKZbt2lrv0Blz3TLTWcPpDFErxD7TX65eLZbuvCg2n7xBj0-Ud5c2-lAGr0kCk1da6iX2Sv8oRI_whbXrVqFj-2Th\",\"device_last_updated\":\"13223269472087186\",\"device_p256dh\":\"BNrogpELFpFXVgOiQ3oEdHtdfweuDmcqo5e3CYu2MxZCUarrPzZB4nBjhjWknZTuiCMvFNPtIz/ijZClp76EdNo=\"}}"
+},
+        {
+            "name": "autofill.last_version_disused_addresses_deleted",
+            "value": "70"
+},
+        {
+            "name": "browser.clear_data.browsing_history_basic",
+            "value": "true"
+},
+        {
+            "name": "profile.content_settings.exceptions.push_messaging",
+            "value": "{}"
+},
+        {
+            "name": "browser.clear_data.site_settings",
+            "value": "true"
+}
+    ],
+    "Themes": [
+        {
+            "use_system_theme_by_default": false,
+            "use_custom_theme": false
+}
+    ]
+}
